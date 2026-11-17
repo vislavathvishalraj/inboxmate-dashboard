@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import { AnimatePresence, motion } from "framer-motion"
-import { ArrowRight, Check, KeyRound, Mail, Sparkles, UserRound, Workflow } from "lucide-react"
+import { ArrowRight, Check, KeyRound, Mail, UserRound, Workflow } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 

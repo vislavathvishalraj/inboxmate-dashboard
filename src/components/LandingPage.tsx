@@ -8,7 +8,7 @@ import {
 
   ArrowUpRight,
 
-  Bot,
+ 
 
   CalendarDays,
 
@@ -16,17 +16,15 @@ import {
 
   CheckCheck,
 
-  ChevronRight,
 
   Mail,
 
   ShieldCheck,
 
-  Sparkles,
 
   Users,
 
-  Workflow,
+
 
   Zap,
 
@@ -90,14 +88,6 @@ const sampleMarkers: GlobeMarker[] = [
 
   { lat: 37.5665, lng: 126.978, src: "https://assets.aceternity.com/avatars/13.webp", label: "Seoul" },
 
-]
-
-const assistantImages = [
-  "https://images.unsplash.com/photo-1724152312974-d4d48b8b36fd?w=480&h=480&fit=crop",
-  "https://images.unsplash.com/photo-1762846818262-33c197852fa8?w=480&h=480&fit=crop",
-  "https://images.unsplash.com/photo-1721407964262-f9864b562453?w=480&h=480&fit=crop",
-  "https://images.unsplash.com/photo-1776394254711-4a0d7345269a?w=480&h=480&fit=crop",
-  "https://images.unsplash.com/photo-1763440519433-5467759054fc?w=480&h=480&fit=crop",
 ]
 
 const featureImages = [
