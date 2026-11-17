@@ -283,11 +283,7 @@ export function AssistantDashboard({ emails, setEmails, onClientView, onLanding 
         </div>
 
         <div className="flex items-center gap-2">
-          {onLanding && (
-            <Button variant="ghost" size="sm" onClick={onLanding} className="hidden text-xs text-slate-500 hover:text-slate-900 md:inline-flex">
-              Landing
-            </Button>
-          )}
+         
 
           {/* Simulate Live Email Button wired to Gemini */}
           <Button
